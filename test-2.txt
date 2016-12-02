@@ -1,1 +1,4 @@
 test-2.txt
+
+12.20.2018 Update from clone 2
+12.20.2018 Update 2 from clone 2
